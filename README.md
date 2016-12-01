@@ -55,6 +55,9 @@ Various good resources for understanding concepts for Btech CS/IT
 
 - Basics
    - TutorialPoint(https://www.tutorialspoint.com/computer_graphics/)
-  
+   
+### Cryptography
+
+- Almost all topics explained in a enthusiastic,easy way(https://www.youtube.com/watch?v=2aHkqB2-46k&list=PLMCE9xmI1IWKqYPzGxE6xoBuxIzvbFPf6)
    
   
